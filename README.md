@@ -18,6 +18,5 @@ Start here and subscribe to receive notifications about our new courses.
 
 To learn more about this course, please check below course contents, all the videos related to this course are on my youtube channel [Intuidemy](https://www.youtube.com/@Intuidemy/playlists).
 
-[1. Introduction to Machine Learning.](https://www.youtube.com/playlist?list=PLD06In0ejHWYf6qMLpZfJHtuPY046ENao)
-
-[2. Machine Learning - NumPy.](https://www.youtube.com/playlist?list=PLD06In0ejHWZbIyAo3Y09Fk2dhZCEfzq6)
+1. [Introduction to Machine Learning.](https://www.youtube.com/playlist?list=PLD06In0ejHWYf6qMLpZfJHtuPY046ENao)
+2. [Machine Learning - NumPy.](https://www.youtube.com/playlist?list=PLD06In0ejHWZbIyAo3Y09Fk2dhZCEfzq6)
