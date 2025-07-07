@@ -20,3 +20,4 @@ To learn more about this course, please check below course contents, all the vid
 
 1. [Introduction to Machine Learning.](https://www.youtube.com/playlist?list=PLD06In0ejHWYf6qMLpZfJHtuPY046ENao)
 2. [Machine Learning - NumPy Vectorization for Speed Optimization.](https://www.youtube.com/playlist?list=PLD06In0ejHWZbIyAo3Y09Fk2dhZCEfzq6)
+3. [Machine Learning - Pandas for Data Analyzing and Manipulating.](https://www.youtube.com/playlist?list=PLD06In0ejHWYQHtm0ANtNo_bejuwGJgH9)
