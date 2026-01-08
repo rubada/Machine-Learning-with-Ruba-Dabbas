@@ -15,6 +15,7 @@ Start here and subscribe to receive notifications about our new courses.
 #### [Learn-Python-Professionally-Part-Two](https://github.com/rubada/Learn-Python-Professionally-Part-Two).
 #### [Learn-Python-Professionally-Part-Three](https://github.com/rubada/Learn-Python-Professionally-Part-Three).
 #### [Testing-in-Python-with-pytest](https://github.com/rubada/Testing-in-Python-with-pytest).
+#### [Django-Tutorials](https://github.com/rubada/Django-Tutorials).
 
 To learn more about this course, please check below course contents, all the videos related to this course are on my youtube channel [Intuidemy](https://www.youtube.com/@Intuidemy/playlists).
 
