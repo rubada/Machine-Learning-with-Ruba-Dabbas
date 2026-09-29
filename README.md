@@ -24,3 +24,4 @@ To learn more about this course, please check below course contents, all the vid
 3. [Machine Learning - Pandas for Data Analyzing and Manipulating.](https://www.youtube.com/playlist?list=PLD06In0ejHWYQHtm0ANtNo_bejuwGJgH9)
 4. [Machine Learning - MatPlotLib for Data Visualization.](https://www.youtube.com/playlist?list=PLD06In0ejHWY4-EEEepLSYB03FYyCGmdZ)
 5. [Data Preprocessing and Preparation for Machine Learning.](https://www.youtube.com/playlist?list=PLD06In0ejHWa9CKur7Ay9vY1M3awVh34e)
+6. [From Raw to Ready: Data Cleaning in Machine Learning.](https://www.youtube.com/playlist?list=PLcmIvcpwtWXY)
